@@ -1,0 +1,55 @@
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP1-1_Full64; Runtime version S-2021.09-SP1-1_Full64;  Jan 27 17:57 2025
+VCD+ Writer S-2021.09-SP1-1_Full64 Copyright (c) 1991-2021 by Synopsys Inc.
+The file '/net/marysrock.ece.Virginia.EDU/maryisan/users/hwu6hc/synopsys/work/inter.vpd' was opened successfully.
+                   0 [1]	0	q=xxxxxxxx
+                   2 [0]	0	q=xxxxxxxx
+                   4 [1]	0	q=xxxxxxxx
+                   5 [1]	1	q=00000000
+                   6 [0]	1	q=00000000
+                   8 [1]	1	q=00000000
+                  10 [0]	0	q=00000000
+                  12 [1]	0	q=10000000
+                  14 [0]	0	q=10000000
+                  16 [1]	0	q=11000000
+                  18 [0]	0	q=11000000
+                  20 [1]	0	q=11100000
+                  22 [0]	0	q=11100000
+                  24 [1]	0	q=11110000
+                  26 [0]	0	q=11110000
+                  28 [1]	0	q=11111000
+$finish called from file "../source/johnson_test.v", line 16.
+$finish at simulation time                   30
+Simulation complete, time is 30.
+          30
+Simulation complete, time is 30.
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP1-1_Full64; Runtime version S-2021.09-SP1-1_Full64;  Jan 27 18:04 2025
+VCD+ Writer S-2021.09-SP1-1_Full64 Copyright (c) 1991-2021 by Synopsys Inc.
+The file '/net/marysrock.ece.Virginia.EDU/maryisan/users/hwu6hc/synopsys/work/inter.vpd' was opened successfully.
+                   0 [1]	0	q=xxxxxxxx
+                   2 [0]	0	q=xxxxxxxx
+                   4 [1]	0	q=xxxxxxxx
+                   5 [1]	1	q=00000000
+                   6 [0]	1	q=00000000
+                   8 [1]	1	q=00000000
+                  10 [0]	0	q=00000000
+                  12 [1]	0	q=10000000
+                  14 [0]	0	q=10000000
+                  16 [1]	0	q=11000000
+                  18 [0]	0	q=11000000
+                  20 [1]	0	q=11100000
+                  22 [0]	0	q=11100000
+                  24 [1]	0	q=11110000
+                  26 [0]	0	q=11110000
+                  28 [1]	0	q=11111000
+$finish called from file "../source/johnson_test.v", line 16.
+$finish at simulation time                   30
+Simulation complete, time is 30.
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09-SP1-1_Full64; Runtime version S-2021.09-SP1-1_Full64;  Jan 27 18:07 2025
+VCD+ Writer S-2021.09-SP1-1_Full64 Copyright (c) 1991-2021 by Synopsys Inc.
+The file '/net/marysrock.ece.Virginia.EDU/maryisan/users/hwu6hc/synopsys/work/inter.vpd' was opened successfully.
